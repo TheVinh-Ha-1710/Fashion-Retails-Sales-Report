@@ -18,7 +18,7 @@ This dataset contains synthetic data that simulates transactional data for a mul
 
 ## ⚙️ Workflow Design
 
-![Diagram](images/workflow_diagram.png)
+![Diagram](images/workflow_diagrampng.png)
 
 1️ Docker for database server hosting.
 
@@ -26,15 +26,15 @@ This dataset contains synthetic data that simulates transactional data for a mul
 
 4️⃣ Microsoft PowerBI for data visualization.
 
-## Database Schema Design
+## ⭐ Schema Design
 
 ![Schema](images/Schema.png)
 
-## 📊 Insights from the Credit Card Transaction Report
+## 📊 Insights
 
 <p align="center">
-  <img src="images/customer_report.jpg" alt="Customer Report" width="45%"/>
-  <img src="images/inventory_report.jpg" alt="Inventory Report" width="45%"/>
+  <img src="images/customer_report.jpg" alt="Customer Report"/>
+  <img src="images/inventory_report.jpg" alt="Inventory Report"/>
 </p>
 
 ![Sales Report](images/sales_report.jpg)
