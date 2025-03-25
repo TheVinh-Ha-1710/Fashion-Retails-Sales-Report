@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="images/customer_report.jpg" alt="Customer Report" width=50%/>
+  <img src="images/inventory_report.jpg" alt="Inventory Report" width=50%/>
+</p>
+
+![Sales Report](images/sales_report.jpg)
+
 # 👗 Fashion Retails Sales Report
 
 ## 🪟 Overview
@@ -29,12 +36,3 @@ This dataset contains synthetic data that simulates transactional data for a mul
 ## ⭐ Schema Design
 
 ![Schema](images/Schema.png)
-
-## 📊 Insights
-
-<p align="center">
-  <img src="images/customer_report.jpg" alt="Customer Report"/>
-  <img src="images/inventory_report.jpg" alt="Inventory Report"/>
-</p>
-
-![Sales Report](images/sales_report.jpg)
