@@ -33,8 +33,8 @@ This dataset contains synthetic data that simulates transactional data for a mul
 ## 📊 Insights from the Credit Card Transaction Report
 
 <p align="center">
-  <img src="images/customer_report.png" alt="Customer Report" width="45%"/>
-  <img src="images/inventory_report.png" alt="Inventory Report" width="45%"/>
+  <img src="images/customer_report.jpg" alt="Customer Report" width="45%"/>
+  <img src="images/inventory_report.jpg" alt="Inventory Report" width="45%"/>
 </p>
 
 ![Sales Report](images/sales_report.jpg)
