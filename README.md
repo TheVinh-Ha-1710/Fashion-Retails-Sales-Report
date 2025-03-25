@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="images/customer_report.jpg" alt="Customer Report" width=50%/>
-  <img src="images/inventory_report.jpg" alt="Inventory Report" width=50%/>
+  <img src="images/customer_report.jpg" alt="Customer Report" width=45%/>
+  <img src="images/inventory_report.jpg" alt="Inventory Report" width=45%/>
 </p>
 
 ![Sales Report](images/sales_report.jpg)
