@@ -5,8 +5,9 @@
 
 ![Sales Report](images/sales_report.jpg)
 
-🛍️ Fashion Retail Sales Report
-📌 Overview
+🛍️ **Fashion Retail Sales Report**
+
+📌 **Overview**
 
 ![Diagram](images/workflow_diagrampng.png)
 
@@ -21,11 +22,11 @@ To visualize insights in Power BI dashboards for better business decision-making
 
 This project solves the problem of fragmented retail data by creating a structured pipeline for data ingestion, transformation, and visualization, enabling businesses to make data-driven decisions in areas like customer segmentation, inventory optimization, and sales performance.
 
-📊 Dataset, Database & Data Schema
+📊 **Dataset, Database & Data Schema**
 
 ![Schema](images/Schema.png)
 
-🔹 Dataset
+🔹 **Dataset**
 
 The dataset contains retail transaction data including:
 
@@ -37,7 +38,7 @@ Transactions: purchases with invoice details, unit price, discount, payment meth
 
 Stores & Employees: store locations, employee information.
 
-🔹 Database
+🔹 **Database**
 
 PostgreSQL hosted in a Docker container.
 
@@ -45,7 +46,7 @@ Data ingested from CSV files and cleaned before loading.
 
 Used for performing transformations and serving data for BI dashboards.
 
-🔹 Data Schema (ERD)
+🔹 **Data Schema (ERD)**
 
 The schema is designed with four main tables:
 
@@ -61,11 +62,11 @@ This relational schema enables efficient joins and aggregations to support repor
 
 (Refer to the ERD diagram in the repo for details.)
 
-📈 Insights from Dashboards
+📈 **Insights from Dashboards**
 
 Three Power BI dashboards were created to provide business insights:
 
-1️⃣ Customer Segmentation Report
+1️⃣ **Customer Segmentation Report**
 
 Customer base: 1.6M customers across 7 countries and 763 cities.
 
@@ -79,7 +80,7 @@ Largest age group: 18–29 years old (0.88M customers).
 
 Geographic distribution highlights strong markets in US and China.
 
-2️⃣ Inventory Management Report
+2️⃣ **Inventory Management Report**
 
 Revenue breakdown by product sub-category:
 
@@ -93,7 +94,7 @@ Units sold analysis: smaller sizes (S, M) dominate.
 
 Production cost vs revenue: feminine and masculine categories generate the highest margins.
 
-3️⃣ Sales Performance Report
+3️⃣ **Sales Performance Report**
 
 Revenue by country: US leads, followed by China.
 
@@ -105,12 +106,13 @@ Daily & hourly performance: weekends and evenings drive higher transactions.
 
 Payment methods: Credit card (59.6%) preferred over cash (40.4%).
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 Data Source: CSV files
 
 Database: PostgreSQL (Docker containerized)
 
 Visualization: Power BI
+
 
 Pipeline: Data ingestion → Database transformation → BI dashboard reporting
